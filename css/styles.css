@@ -2143,3 +2143,11 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+.container-features .row {
+	padding-bottom: 30px;
+}
+
+.container-features img{
+	max-height: 280px;
+}
