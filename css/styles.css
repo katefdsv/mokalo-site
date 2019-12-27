@@ -783,6 +783,8 @@ input[type='checkbox'] {
 .header {
 	background-color: #352f60;
 	background-image: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+	background-blend-mode: lighten;
 }
 
 .header .header-content {
